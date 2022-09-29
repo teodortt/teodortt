@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Teodor
+- 👋 Hi, my name is Teodor Todorov
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently working as React Front-End developer
 - 💞️ I’m looking to collaborate on short-term projects
